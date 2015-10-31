@@ -1,7 +1,7 @@
 {
-     "name": "saffroncoin",
+     "name": "saffroncoin_blake",
      "symbol": "SFR",
-     "algorithm": "sha256",
+     "algorithm": "blake",
      "peerMagic": "cf0567ea",
      "peerMagicTestnet": "01f555a4"
 }

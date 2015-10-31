@@ -1,0 +1,6 @@
+{
+    "name": "Fujicoin",
+    "symbol": "FJC",
+    "algorithm": "scrypt-n",
+    "txMessages": true
+}

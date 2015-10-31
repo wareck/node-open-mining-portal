@@ -1,0 +1,5 @@
+{
+    "name"       : "UFOcoin",
+    "symbol"     : "UFO",
+    "algorithm"  : "neoscrypt"
+}

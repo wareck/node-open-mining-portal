@@ -1,0 +1,5 @@
+{
+    "name"       : "HeisenbergHex",
+    "symbol"     : "HEX",
+    "algorithm"  : "scrypt"
+}

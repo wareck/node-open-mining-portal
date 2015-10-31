@@ -1,0 +1,5 @@
+{
+    "name": "BataCoin",
+    "symbol": "BTA",
+    "algorithm": "scrypt"
+}
