@@ -1,5 +1,5 @@
 {
     "name"       : "Phoenixcoin",
     "symbol"     : "PXC",
-    "algorithm"  : "neoscrypt"
+    "algorithm"  : "scrypt"
 }
