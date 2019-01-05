@@ -31,21 +31,21 @@
         "url": "https://github.com/wareck/node-open-mining-portal.git"
     },
     "dependencies": {
-        "stratum-pool": "git://github.com/wareck/node-stratum-pool.git",
-        "dateformat": "*",
+        "stratum-pool": "git://github.com/zone117x/node-stratum-pool.git",
+        "dateformat": "1.0.12",
         "node-json-minify": "*",
-        "redis": "*",
+        "redis": "0.12.1",
         "mysql": "*",
-        "async": "*",
+        "async": "1.5.2",
         "express": "*",
         "body-parser": "*",
         "compression": "*",
         "dot": "*",
         "colors": "*",
         "node-watch": "*",
-        "request": "*",
+        "request": "2.69.0",
         "nonce": "*",
-        "bignum": "*",
+        "bignum": "0.12.5",
         "extend": "*"
     },
     "engines": {
